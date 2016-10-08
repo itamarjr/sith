@@ -1,0 +1,19 @@
+{
+  "name": "sith-theme",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Syth theme syntax inspired in the Dark side of the Force.",
+  "keywords": [
+    "sith",
+    "dark",
+    "red",
+    "syntax",
+    "theme"
+
+  ],
+  "repository": "https://github.com/itamarjr/sith",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
